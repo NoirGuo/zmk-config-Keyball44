@@ -1,6 +1,6 @@
 file_format: "1"
-id: keyball44
-name: Keyball44
+id: charybdis
+name: charybdis
 type: shield
 url: https://github.com/Yowkees/keyball
 requires: [pro_micro]
@@ -9,5 +9,5 @@ features:
   - pointer
   - underglow
 siblings:
-  - keyball44_left
-  - keyball44_right
+  - charybdis_left
+  - charybdis_right
